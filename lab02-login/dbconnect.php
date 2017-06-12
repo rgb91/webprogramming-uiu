@@ -1,9 +1,9 @@
 <?php
 
-	 $DBhost = "localhost";
+	 $DBhost = "localhost:3306";
 	 $DBuser = "root";
-	 $DBpass = "";
-	 $DBname = "lab02_login";
+	 $DBpass = "root";
+	 $DBname = "loginsignup";
 	 
 	 $DBcon = new MySQLi($DBhost,$DBuser,$DBpass,$DBname);
     
