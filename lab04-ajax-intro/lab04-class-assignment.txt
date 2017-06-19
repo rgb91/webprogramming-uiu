@@ -1,0 +1,7 @@
+1. Create a DB table 'posts' (post_id, user_id, post_title, post_text, created_at, updated_at)
+
+2. Logged in users can create a post
+
+3. Home page should show all the posts available (titles only).
+
+4. Users can click on an individual post to see the whole text.
